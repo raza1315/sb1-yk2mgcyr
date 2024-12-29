@@ -18,9 +18,3 @@
 - **Spacebar**: Switch your charge.
 - **Mouse**: Drag to move the player.
 
-## License
-MIT License
-
----
-
-This version provides a concise overview, perfect for a GitHub repository.
